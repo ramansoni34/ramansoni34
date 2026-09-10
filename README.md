@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on building interactive and responsive web experiences.<br>🕺 I’m looking to collaborate on frontend and UI/UX projects.<br>🤝 I’m looking for help with becoming a better JavaScript and React developer.<br>🌱 I’m currently learning JavaScript, React, and modern frontend development.<br>💬 Ask me about frontend development, UI design, animations, and GSAP.<br>⚡ Fun fact: I love adding motion and interaction to otherwise simple interfaces.
+## 😄 I'M RAMAN!
 
+**Frontend Developer | UI/UX Enthusiast | BCA Student**
+
+I’m a frontend developer focused on creating interactive and responsive web experiences. I enjoy combining clean UI, smooth animations, and thoughtful interactions to build engaging digital experiences.
+
+✨ Passionate about **frontend development, UI/UX, animations, and creative interfaces**.  
+🌱 Currently improving my **JavaScript and React** skills while exploring modern frontend development.  
+🚀 Experienced in **frontend development, UI design, animations, and landing pages** through startup work.  
+🌀 Interested in **GSAP, motion design, micro-interactions, and immersive web experiences**.  
+💻 Working toward becoming a **strong full-stack developer**.  
+🤝 Interested in **open-source, real-world projects, and collaboration**.  
+📚 Always learning and building **step by step**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soniji_ka_bada_beta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-soni-335422365) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shardannlsoni@gmail.com) 
